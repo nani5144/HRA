@@ -1,0 +1,25 @@
+
+.main{
+	display: flex;
+	background-color: lightgrey;
+}
+
+.side{
+	flex:30%;
+	background-color: blueviolet;
+}
+
+	
+.forms {
+	margin: 50px;
+
+	padding-left: 40px;
+	padding-right: 40px;
+
+	flex: 40%
+	
+}
+
+label{
+	color:red;
+}
